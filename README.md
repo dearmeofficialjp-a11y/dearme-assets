@@ -1,0 +1,2 @@
+# dearme-assets
+Instagram APIで画像取得できるようにpublicとなっている画像保存リポジトリ
